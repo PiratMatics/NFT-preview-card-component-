@@ -1,0 +1,106 @@
+
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+img {
+    width: 100%;
+    margin-top: 22.5px;
+    border-radius: 10px;
+}
+
+section {
+    width: 50%;
+}
+
+section p {
+   font-weight: 600;
+}
+
+p {
+    /*color: hsl(0, 0%, 100%);*/
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: ;
+    font-size: 17px;
+}
+
+hr {
+    opacity: 30%;
+}
+
+span {
+    color: hsl(0, 0%, 100%);
+}
+
+.footer p {
+    margin: 15px;
+    float: inline-start;
+}
+
+.card {
+    width: 340px;
+    height: 580px;
+    background-color: hsl(216, 50%, 16%);
+    margin: 11% auto;
+    border-radius: 15px;
+}
+
+.block {
+    width: 85%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.main {
+
+}
+
+.section {
+    width: 100%;
+    display: inline-flex;
+    margin-top: -10px;
+}
+
+.icon-eth {
+    width: 10px;
+    float: left;
+    margin-top: 20px;
+    padding-right: 10px;
+}
+
+.icon-clock {
+    width: 16px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+.footer {
+    width: 100%;
+}
+
+.avatar {
+    width: 30px;
+    border: solid 1px white;
+    border-radius: 50%;
+    margin-top: 10px;
+    float: left;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: 600;
+    color: hsl(0, 0%, 100%);
+}
+
+.align-left p {
+    color: hsl(178, 100%, 50%);
+}
+
+.align-right {
+}
+
+.p-align-right {
+    text-align: right;
+}
